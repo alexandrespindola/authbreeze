@@ -1,3 +1,9 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.scss__test {
+    font-size: 3rem;
+    color: red;
+    background-color: grey;
+}

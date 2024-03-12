@@ -13,10 +13,10 @@
 
             <!-- Page Heading -->
 
-
             <!-- Page Content -->
             <main>
-                <h1>Hello</h1>
+                <h1 class="scss__test">Hello</h1>
+                <p class="bg-yellow-300 text-blue-800">Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo tenetur aliquid placeat laboriosam recusandae eveniet ipsa, adipisci debitis eius consequuntur aperiam, doloribus atque voluptates minima? Eligendi provident quas nam soluta.</p>
             </main>
         </div>
     </body>
